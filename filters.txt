@@ -12,3 +12,7 @@
 ||youtube.com/ytcs/adview^
 ||youtube.com/api/stats/ads^
 ||youtube.com/ytcs/adinteraction^
+||youtube.com/api/stats/playback?ns=yt&el=adunit^
+||youtube.com/ptracking^
+||youtube.com/api/stats/atr?ns=yt&el=adunit^
+||youtube.com/api/stats/watchtime?ns=yt&el=adunit^
