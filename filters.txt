@@ -8,4 +8,4 @@
 ||ads.example.com^
 
 # yt domain
-||youtube.com^
+# ||youtube.com^
