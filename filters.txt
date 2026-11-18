@@ -9,3 +9,6 @@
 
 # yt domain
 # ||youtube.com^
+||youtube.com/ytcs/adview^
+||youtube.com/api/stats/ads^
+||youtube.com/ytcs/adinteraction^
