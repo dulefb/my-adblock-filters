@@ -16,3 +16,4 @@
 ||youtube.com/ptracking^
 ||youtube.com/api/stats/atr?ns=yt&el=adunit^
 ||youtube.com/api/stats/watchtime?ns=yt&el=adunit^
+||youtube.com/api/stats/qoe?fmt=398&afmt=251^
