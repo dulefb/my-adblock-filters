@@ -1,0 +1,12 @@
+# My Ad Blocker - Filter List
+
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+
+# Test domain
+||ads.example.com^
+
+# yt domain
+# ||youtube.com^
+||youtube.com/watch?v=DKWmAP^
